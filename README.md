@@ -17,6 +17,10 @@
 
 ### What is StellarCheckout?
 
+### Vision
+
+Our project aims to integrate Stellar as one of the payment providers in our platform. This integration will allow users to conduct fast, low-cost, and secure payments using Stellar’s blockchain. By bringing Stellar to a new market of users and businesses, we are directly contributing to the network’s growth and adoption.
+
 ### Features
 
 ### Demo
